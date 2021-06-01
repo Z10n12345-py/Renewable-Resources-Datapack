@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "NBN",
+      "BSB",
+      "NBN"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:blackstone"
+      },
+      "S": {
+        "item": "minecraft:netherite_scrap"
+      },
+      "N": {
+        "item": "minecraft:netherrack"
+      }
+    },
+    "result": {
+      "item": "minecraft:ancient_debris",
+      "count": "1"
+    }
+  }

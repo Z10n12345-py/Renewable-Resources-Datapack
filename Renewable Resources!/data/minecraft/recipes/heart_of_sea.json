@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "MPM",
+      "PDP",
+      "MPM"
+    ],
+    "key": {
+      "M": {
+        "item": "minecraft:prismarine"
+      },
+      "P": {
+        "item": "minecraft:dark_prismarine"
+      },
+      "D": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "minecraft:heart_of_the_sea",
+      "count": "1"
+    }
+  }

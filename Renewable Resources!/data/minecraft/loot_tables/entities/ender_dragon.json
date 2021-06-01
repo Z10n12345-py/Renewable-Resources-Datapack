@@ -1,0 +1,79 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1.0,
+                  "max": 1.0,
+                  "type": "minecraft:uniform"
+                }
+              }
+            ],
+            "name": "minecraft:elytra"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1.0,
+                  "max": 1.0,
+                  "type": "minecraft:uniform"
+                }
+              }
+            ],
+            "name": "minecraft:dragon_egg"
+          }
+        ]
+      },
+      {
+        "rolls": 6,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:diamond"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:netherite_scrap"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:diamond"
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 1.0,
+                  "max": 1.0,
+                  "type": "minecraft:uniform"
+                }
+              }
+            ],
+            "name": "minecraft:nether_star"
+          }
+        ]
+      }
+    ]
+  }

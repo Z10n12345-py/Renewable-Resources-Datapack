@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "GDG",
+      "DAD",
+      "GDG"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:gold_block"
+      },
+      "A": {
+        "item": "minecraft:apple"
+      },
+      "D": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "minecraft:enchanted_gold_apple",
+      "count": "1"
+    }
+  }

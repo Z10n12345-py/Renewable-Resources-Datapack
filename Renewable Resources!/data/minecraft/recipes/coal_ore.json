@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "SRS",
+      "RSR",
+      "SRS"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:stone"
+      },
+      "R": {
+        "item": "minecraft:coal"
+      }
+
+    },
+    "result": {
+      "item": "minecraft:coal_ore",
+      "count": "1"
+    }
+  }

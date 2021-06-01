@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "S S",
+      " l ",
+      "S S"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:string"
+      },
+      "l": {
+        "item": "minecraft:slime_ball"
+      }
+
+    },
+    "result": {
+      "item": "minecraft:cobweb",
+      "count": "4"
+    }
+  }
